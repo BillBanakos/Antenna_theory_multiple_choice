@@ -145,13 +145,13 @@ pip install -r requirements.txt
 Τρέξτε:
 
 ```bash
-python main.py
+python antenna_quiz.py
 ```
 
 Σε ορισμένα συστήματα macOS ή Linux μπορεί να χρειαστεί:
 
 ```bash
-python3 main.py
+python3 antenna_quiz.py
 ```
 
 ---
